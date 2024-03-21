@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T19:11:18.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CYbAwQ5GsCYQSeJfc36B" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T08:34:10.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DiRhMTKK5b-B8g0oiPq0" version="24.0.7" type="github">
   <diagram name="Strona-1" id="vCR2zcsVX5F0HRR7Mt7r">
-    <mxGraphModel dx="751" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,8 +79,8 @@
         <mxCell id="fKiIdGAY0l0U11j1hd6N-36" value="2:&quot;Create&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="430" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="fKiIdGAY0l0U11j1hd6N-37" value="3:заполнить данные товара" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="470" y="420" as="geometry" />
+        <mxCell id="fKiIdGAY0l0U11j1hd6N-37" value="3:заполнить данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="460" y="420" as="geometry" />
         </mxCell>
         <mxCell id="fKiIdGAY0l0U11j1hd6N-38" value="4:данные введены" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="378" y="320" as="geometry" />
@@ -118,7 +118,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fKiIdGAY0l0U11j1hd6N-59" value="8:&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;просмотр&amp;nbsp;&lt;/span&gt;одобрен" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="260" y="250" as="geometry" />
+          <mxGeometry x="260" y="250" as="geometry">
+            <mxPoint x="7" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fKiIdGAY0l0U11j1hd6N-60" value="7:&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;просмотр&amp;nbsp;&lt;/span&gt;не&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;&lt;/span&gt;одобрен&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="310.003333333333" y="170" as="geometry" />
@@ -126,7 +128,7 @@
         <mxCell id="fKiIdGAY0l0U11j1hd6N-61" value="8:&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;просмотр&lt;/span&gt;&amp;nbsp;не одобрен" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="259.99666666666644" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="fKiIdGAY0l0U11j1hd6N-62" value="9:удалить" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+        <mxCell id="fKiIdGAY0l0U11j1hd6N-62" value="9:отменить" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="429.9966666666667" y="440" as="geometry" />
         </mxCell>
       </root>
